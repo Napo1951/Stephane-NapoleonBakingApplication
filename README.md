@@ -7,6 +7,6 @@
 <h2>Future Improvments</h2>
 <p>You can add videos or background pictures in the front page, also, you can add CSS for styling and refactoring the codes.</p>
 <h2>How to run</h2>
-<p>Please click this link to get you to the page for testing</p>
+<p>Please click this link https://napo1951.github.io/Stephane-NapoleonBakingApplication/ to get you to the page for testing</p>
 <h2>Credits</h2>
 <p>MIT xPRO</p>
